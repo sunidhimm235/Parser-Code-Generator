@@ -1,0 +1,23 @@
+/* Comment */
+
+var x; /* Comment */
+
+/*Comment*/
+
+var y; /*Comment*/
+
+/* Comment */ var x;
+
+/*Comment*/ var x;
+
+var /* Comment */ x;
+
+var /*Comment*/ y;
+
+/* Comment
+Comment
+Comment */
+
+/*Comment
+Comment
+Comment*/ var x;
